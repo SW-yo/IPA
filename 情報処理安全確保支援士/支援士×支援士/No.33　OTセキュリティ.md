@@ -8,6 +8,10 @@
 	https://www.proface.com/ja/article/scada#2-3
 - Modbus：産業用機器間の通信を標準化するためのオープンな通信プロトコル
 	https://www.cct-inc.co.jp/koto-online/archives/796
+- IPC：Industrial PC/産業用PC
+	https://iotnews.jp/manufacturing/179310/
+	https://kmecsone.jp/article/iei/column_42/
+- SDA ：Software Defined Automation、従来のハードウェア中心から、ソフトウェア中心の柔軟なオートメーションシステムへと移行するアプローチや、それに関連する産業分野
 ✓Stuxnet：2010年7月中旬に出現、USB 経由で Windows の脆弱性を悪用して Windows PC に感染する、独シーメンス社製ソフトウェア（SIMATIC）を攻撃対象とする特徴を持つ、1979米Modicon社が開発、同様の通信プロトコルにはPROFINET、EtherCAT、EtherNet/IP、CAN、BACnetがある
 https://www.nca.gr.jp/info/stuxnet.html
 ✓制御システムのセキュリティ
